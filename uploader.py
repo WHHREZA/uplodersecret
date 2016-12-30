@@ -18,8 +18,8 @@ import sys
 reload(sys)
 sys.setdefaultencoding("utf-8")
 redis = r.StrictRedis(host='localhost', port=6379, db=0,decode_responses=True)
-token = "283163349:AAG5KNGSyEBVi-F9j1BQF3dvQkf5gh7PI6A"
-bot = telebot.TeleBot(token)
+token = "TOKEN"
+bot = telebot.TeleBot(283163349:AAG5KNGSyEBVi-F9j1BQF3dvQkf5gh7PI6A)
 opizo_email = 'rezazarei51589@gmail.com'
 start_msg = '*hi mr :) dev by : @whh_reza*'
 
