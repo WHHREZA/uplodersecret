@@ -84,7 +84,7 @@ def all(m):
 @bot.message_handler(commands=['rate'])
 def rate(m):
       markup = types.InlineKeyboardMarkup()
-      rate = types.InlineKeyboardButton('Rate',url='https://telegram.me/storebot?start=YourBotID')
+      rate = types.InlineKeyboardButton('Rate',url='https://telegram.me/storebot?start=uplodersecretbot')
       markup.add(rate)
       bot.send_message(m.chat.id,'If you like me, please give 5 star rating at: https://telegram.me/storebot?start=uplodersecretbot\nYou can also recommend me @uplodersecretbot to your friends.\nHave a nice day!',reply_markup=markup)
 
