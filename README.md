@@ -14,8 +14,6 @@ python up*
 ```
 🔺 
 
-[-🙍DeveLoper](https://telegram.me/whh_reza)
-
-[-👤creator](https://telegram.me/whh_reza)
+[-👤DeveLoper & creator](https://telegram.me/whh_reza)
 
 [-💬RePoRtS](https://telegram.me/whh_rezabot)
